@@ -7,7 +7,7 @@
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/⚡_TESTAR_CALCULADORA_AGORA-FF69B4?style=for-the-badge&logoColor=white)](https://lnkd.in/dj5BbTtz)
+[![Live Demo](https://img.shields.io/badge/⚡_TESTAR_CALCULADORA_AGORA-FF69B4?style=for-the-badge&logoColor=white)](https://babibalmant.github.io/calculadora-javascript/)
 
 <br/><br/>
 
@@ -50,7 +50,7 @@ Este foi o meu **primeiro projeto prático utilizando JavaScript**! Ele represen
 
 Você pode usar a calculadora diretamente no seu navegador sem instalar nada!
 
-1. 🔗 [Clique Aqui para Acessar a Calculadora](https://lnkd.in/dj5BbTtz)
+1. 🔗 [Clique Aqui para Acessar a Calculadora](https://babibalmant.github.io/calculadora-javascript/)
 2. Realize os cálculos que desejar em tempo real!
 
 ---
